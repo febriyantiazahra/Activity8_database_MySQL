@@ -3,10 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/Activity_8/app/src/main/res/layout/activity_edit_teman.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/Activity_8/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/Activity_8/app/src/main/res/layout/activity_tambah_teman.xml" value="0.1" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/Activity_8/app/src/main/res/layout/row_data_teman.xml" value="0.11851851851851852" />
         <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/Activity_8/app/src/main/res/menu/menu.xml" value="0.18981481481481483" />
+        <entry key="..\:/Users/Febriyanti Azahra/AndroidStudioProjects/Activity_8/app/src/main/res/menu/popup1.xml" value="0.25" />
       </map>
     </option>
   </component>
